@@ -24,6 +24,11 @@ h6 {
   padding: 0 5%;
 }
 
+.portfolio-site {
+  width: 387px;
+  height: 315px;
+}
+
 h1 {
   font-size: 40px;
   color: #f5a623;
@@ -132,6 +137,10 @@ a {
   background-color: #484848;
 }
 
+#projects img {
+    width: 200px;
+}
+
 .flex-box {
   display: -webkit-flex;
   display: flex;
@@ -156,7 +165,7 @@ ul {
   list-style-type: none;
 }
 
-.biopic {
+.biopic{
   float: left;
   padding: 10px;
   width: 200px;
